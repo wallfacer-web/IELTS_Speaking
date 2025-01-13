@@ -1,0 +1,16 @@
+# Web应用框架
+streamlit>=1.32.0
+
+# 网络请求
+requests>=2.31.0
+
+# 语音处理
+edge-tts>=6.1.9
+pydub>=0.25.1
+openai-whisper>=20231117
+
+# 异步支持
+asyncio>=3.4.3
+
+# 文件处理
+python-dotenv>=1.0.0 
