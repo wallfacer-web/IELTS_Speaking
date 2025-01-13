@@ -146,7 +146,7 @@ def main():
     st.markdown(
         "<div style='text-align: center;'>"
         "Designed by Toby @2024.6 | "
-        "<a href='https://github.com/wallfacer-web/wallfacer-web'>GitHub</a>"
+        "<a href='https://github.com/wallfacer-web/TobyLuoPeng'>GitHub</a>"
         "</div>",
         unsafe_allow_html=True
     )
